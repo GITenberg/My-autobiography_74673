@@ -1,0 +1,38 @@
+_repo: My-autobiography_74673
+_version: 0.0.1
+contributor:
+  contributor:
+    agent_name: Child, Richard Washburn
+    birthdate: 1881
+    deathdate: 1935
+    gutenberg_agent_id: '26505'
+    url: http://www.gutenberg.org/2009/agents/26505
+creator:
+  author:
+    agent_name: Mussolini, Benito
+    alias: Duce
+    birthdate: 1883
+    deathdate: 1945
+    gutenberg_agent_id: '52104'
+    url: http://www.gutenberg.org/2009/agents/52104
+    wikipedia:
+    - https://it.wikipedia.org/wiki/Benito_Mussolini
+    - https://en.wikipedia.org/wiki/Benito_Mussolini
+description: ''
+gutenberg_issued: '2024-11-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74673'
+language: en
+pgterms:marc904: https://archive.org/details/benitomussolinim0000unkn
+pgterms:marc905: 20240828191057mussolini
+pgterms:marc906: '1928'
+pgterms:marc907: US
+publication_note: '  $aNew York :$bCharles Scribner''s Sons, $c1928.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: My autobiography
+url: http://www.gutenberg.org/ebooks/74673
